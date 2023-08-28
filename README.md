@@ -1,6 +1,7 @@
 <div>
-<title><h1>💫 About Me:</h1></title>
+<h1>💫 About Me:</h1>
 Hello, my name is Eder, I'm a web3 developer, I'm passionate about the blockchain industry.
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=296322850494385002" height="218" width="236" frameborder="0" scrolling="no" ></iframe>
 
 
 ## 🌐 Socials:
