@@ -1,10 +1,11 @@
 <div>
+  
 <h1>💫 About Me:</h1>
 <p>Hello, my name is Eder, I'm a web3 developer, I'm passionate about the blockchain industry.</p>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=296322850494385002" height="273" width="345" frameborder="0" scrolling="no" ></iframe>
+
 
 </div>
-<div>
+
 # 🌐 Socials: 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Askjell_E) 
 
@@ -21,6 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Newton077&icon=0&color=0)](https://visitcount.itsvg.in)
-º
+
 </details>
 </div>
