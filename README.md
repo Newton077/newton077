@@ -1,5 +1,5 @@
 <div>
-# 💫 About Me:
+ 💫 About Me:
 Hello, my name is Eder, I'm a web3 developer, I'm passionate about the blockchain industry.
 
 
