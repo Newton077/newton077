@@ -2,7 +2,7 @@
   
 <h1>💫 About Me:</h1>
 <p>Hello, my name is Eder, I'm a web3 developer, I'm passionate about the blockchain industry.</p>
-<img src="[OC] First Pixel Art - An Old PC.gif" width="150" style="display: block; margin: 0 auto;">
+<img src="[OC] First Pixel Art - An Old PC.gif" width="180" style="display: block; margin: 50 auto;">
 
 </div>
 
