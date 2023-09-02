@@ -1,8 +1,7 @@
 <div>
-  
-<h1>💫 About Me:</h1>
-<p>Hello, my name is Eder, I'm a web3 developer, I'm passionate about the blockchain industry.</p>
-<img src="[OC] First Pixel Art - An Old PC.gif" width="180" style="display: block; margin: 50 auto;">
+<h1 align= "center">💫 About Me:</h1>
+<p align="center">Hello, my name is Eder, I'm a web3 developer, I'm passionate about the blockchain industry.</p>
+<img src="[OC] First Pixel Art - An Old PC.gif" width="180" style="width: 100%;">
 
 </div>
 
